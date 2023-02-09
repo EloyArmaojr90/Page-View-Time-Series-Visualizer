@@ -1,4 +1,4 @@
-# <h1 align=center>**`MEDICAL DATA VISUALIZER`**</h1>
+# <h1 align=center>**`Page View Time Series Visualizer`**</h1>
 
 
 ## **Introduction**
